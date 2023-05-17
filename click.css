@@ -1,0 +1,27 @@
+
+
+body{
+    background: rgb(236, 217, 217)
+    ;
+}
+.click1{
+    margin-top: 200px;
+    margin-left: 500px;
+    height: 300px;
+    width: 300px;
+    background: #077a97;
+}
+.click2{
+    margin-top: 50px;
+    margin-left: 50px;
+    position: absolute;
+    border: 2px;
+    border-radius: 4px;
+    height: 200px;
+    width: 200px;
+    background: #817f75;
+    
+}
+#counter{
+    margin-left: 75px;
+}
